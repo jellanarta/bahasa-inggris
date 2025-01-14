@@ -39,6 +39,8 @@ export default function BerandaPage() {
     { inggris: "leave", indonesia: "meninggalkan" },
     { inggris: "together", indonesia: "bersama" },
     { inggris: "separate", indonesia: "berpisah" },
+    { inggris: "write", indonesia: "menulis" },
+    { inggris: "erase", indonesia: "menghapus" },
   ]);
 
   useEffect(() => {
