@@ -47,7 +47,7 @@ export default function BerandaPage() {
     { inggris: "without", indonesia: "tanpa" },
     { inggris: "less", indonesia: "kurang" },
     { inggris: "expected", indonesia: "diharapkan" },
-    { inggris: "chance", indonesia: "chance" },
+    { inggris: "chance", indonesia: "kesempatan" },
     { inggris: "actually", indonesia: "sebenarnya" },
     { inggris: "coverage", indonesia: "cakupan" },
     { inggris: "currently", indonesia: "saat ini" },
