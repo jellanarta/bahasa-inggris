@@ -46,14 +46,14 @@ export default function BerandaPage() {
     { inggris: "available", indonesia: "tersedia" },
     { inggris: "without", indonesia: "tanpa" },
     { inggris: "less", indonesia: "kurang" },
-    { inggris: "expected", indonesia: "diharapkan" },
-    { inggris: "chance", indonesia: "kesempatan" },
-    { inggris: "actually", indonesia: "sebenarnya" },
-    { inggris: "coverage", indonesia: "cakupan" },
-    { inggris: "currently", indonesia: "saat ini" },
-    { inggris: "both", indonesia: "keduanya" },
-    { inggris: "assign", indonesia: "menugaskan" },
-    { inggris: "each", indonesia: "setiap" },
+    // { inggris: "expected", indonesia: "diharapkan" },
+    // { inggris: "chance", indonesia: "kesempatan" },
+    // { inggris: "actually", indonesia: "sebenarnya" },
+    // { inggris: "coverage", indonesia: "cakupan" },
+    // { inggris: "currently", indonesia: "saat ini" },
+    // { inggris: "both", indonesia: "keduanya" },
+    // { inggris: "assign", indonesia: "menugaskan" },
+    // { inggris: "each", indonesia: "setiap" },
   ]);
 
   useEffect(() => {
