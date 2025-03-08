@@ -52,6 +52,8 @@ export default function BerandaPage() {
 { inggris: "often", indonesia: "sering" },
 { inggris: "decide", indonesia: "memutuskan" },
 { inggris: "pursue", indonesia: "mengejar" },
+{ inggris: "ability", indonesia: "kemampuan" },
+{ inggris: "whether", indonesia: " apakah" },
     // { inggris: "coverage", indonesia: "cakupan" },
     // { inggris: "currently", indonesia: "saat ini" },
     // { inggris: "both", indonesia: "keduanya" },
