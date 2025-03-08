@@ -25,10 +25,10 @@ export default function BerandaPage() {
     loading: true,
   });
   const [data] = useState<Bahasa[]>([
-    { inggris: "mattress", indonesia: "kasur" },
-    { inggris: "floor", indonesia: "lantai" },
-    { inggris: "table", indonesia: "meja" },
-    { inggris: "chair", indonesia: "kursi" },
+    //{ inggris: "mattress", indonesia: "kasur" },
+    //{ inggris: "floor", indonesia: "lantai" },
+    //{ inggris: "table", indonesia: "meja" },
+    //{ inggris: "chair", indonesia: "kursi" },
     { inggris: "limit", indonesia: "membatasi" },
     { inggris: "expand", indonesia: "memperluas" },
     { inggris: "repair", indonesia: "memperbaiki" },
