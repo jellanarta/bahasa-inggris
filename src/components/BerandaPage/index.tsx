@@ -40,7 +40,7 @@ export default function BerandaPage() {
     { inggris: "together", indonesia: "bersama" },
     { inggris: "separate", indonesia: "berpisah" },
     { inggris: "write", indonesia: "menulis" },
-    { inggris: "erase", indonesia: "menghapus" },
+    //{ inggris: "erase", indonesia: "menghapus" },
     { inggris: "speak", indonesia: "berbicara" },
     { inggris: "talk", indonesia: "diam" },
     { inggris: "available", indonesia: "tersedia" },
@@ -54,11 +54,11 @@ export default function BerandaPage() {
 { inggris: "pursue", indonesia: "mengejar" },
 { inggris: "ability", indonesia: "kemampuan" },
 { inggris: "whether", indonesia: " apakah" },
-    // { inggris: "coverage", indonesia: "cakupan" },
-    // { inggris: "currently", indonesia: "saat ini" },
+    { inggris: "coverage", indonesia: "cakupan" },
+    { inggris: "currently", indonesia: "saat ini" },
     // { inggris: "both", indonesia: "keduanya" },
     // { inggris: "assign", indonesia: "menugaskan" },
-    // { inggris: "each", indonesia: "setiap" },
+    { inggris: "each", indonesia: "setiap" },
   ]);
 
   useEffect(() => {
